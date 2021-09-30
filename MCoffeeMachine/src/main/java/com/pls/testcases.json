@@ -1,0 +1,10 @@
+{
+  "test_case_1" : ["serve hot_tea", "serve hot_coffee"],
+  "test_case_2" : ["serve cold_coffee"],
+  "test_case_3" : ["serve hot_tea", "serve hot_coffee", "serve black_tea"],
+  "test_case_4" : ["serve green_tea"],
+  "test_case_5" : ["serve hot_tea", "serve hot_coffee", "serve black_tea", "refill_all", "serve black_tea"],
+  "test_case_6" : ["serve hot_coffee", "serve black_tea", "show_ingredients_running_low"],
+  "test_case_7" : ["serve hot_tea", "serve hot_coffee", "serve black_tea", "refill sugar_syrup", "refill hot_water", "serve black_tea"],
+  "test_case_8" : ["refill sugar"]
+}
